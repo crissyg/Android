@@ -3,6 +3,7 @@ package com.example.assign3;
 //Assignment:      Assignment 3
 //Author:          Christina Gordon
 //CSIS4020
+//Description: SCHEDULER APP WITH SQL LITE DATABASE
 //Date Edited: 		   03/22/2014
 //References:     Tatiana Fetecua tfassig5  
 ///////////////////////////////////////////////////////////////////////////////
