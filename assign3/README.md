@@ -1,4 +1,3 @@
 # Scheduler
 
-This repository consists of a Scheduler Android Application that uses an SqlLIte Database to add,remove,edit, and retrieve schedules. 
-This example used a pool business.
+This repository consists of a Pool Business Scheduler Android Application that uses an SQL Lite Database to add, remove ,edit, and retrieve schedules that helps keeps track for daily business work activities/schedules.
