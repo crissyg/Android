@@ -13,90 +13,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21ceec93-75dc-4296-9523-01a8315e59ab" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../assign3/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/.idea/assign3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assign3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/bin/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/bin/Assign3.apk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/bin/classes.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/bin/classes/com/example/assign3/BuildConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/bin/classes/com/example/assign3/Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/bin/classes/com/example/assign3/CustomerActivity$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/bin/classes/com/example/assign3/CustomerActivity$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/bin/classes/com/example/assign3/CustomerActivity$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/bin/classes/com/example/assign3/CustomerActivity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/bin/classes/com/example/assign3/CustomerListActivity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/bin/classes/com/example/assign3/DatabaseHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/bin/classes/com/example/assign3/FieldCheck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/bin/classes/com/example/assign3/MainActivity$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/bin/classes/com/example/assign3/MainActivity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/bin/classes/com/example/assign3/MenuActivity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/bin/classes/com/example/assign3/R$attr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/bin/classes/com/example/assign3/R$dimen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/bin/classes/com/example/assign3/R$drawable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/bin/classes/com/example/assign3/R$id.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/bin/classes/com/example/assign3/R$layout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/bin/classes/com/example/assign3/R$menu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/bin/classes/com/example/assign3/R$string.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/bin/classes/com/example/assign3/R$style.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/bin/classes/com/example/assign3/R.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/bin/classes/com/example/assign3/TodayListActivity$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/bin/classes/com/example/assign3/TodayListActivity$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/bin/classes/com/example/assign3/TodayListActivity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/bin/dexedLibs/android-support-v4-059e6872b07c976e728f524ea927d3d0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/bin/dexedLibs/android-support-v4-721e46aea303373b4ea4d5d6f2405f64.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/bin/jarlist.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/bin/res/crunch/drawable-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/bin/res/crunch/drawable-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/bin/res/crunch/drawable-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/bin/res/crunch/drawable-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/bin/res/crunch/drawable/bk.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/bin/res/crunch/drawable/splash.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/bin/resources.ap_" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/gen/com/example/assign3/BuildConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/gen/com/example/assign3/Manifest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/gen/com/example/assign3/R.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/ic_launcher-web.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/libs/android-support-v4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/lint.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/proguard-project.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/project.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/res/drawable-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/res/drawable-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/res/drawable-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/res/drawable-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/res/drawable/bk.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/res/drawable/splash.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/res/layout/activity_customer.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/res/layout/activity_customer_list.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/res/layout/activity_menu.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/res/layout/activity_today_list.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/res/menu/main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/res/values-sw600dp/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/res/values-sw720dp-land/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/res/values-v11/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/res/values-v14/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/res/values/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/src/com/example/assign3/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/src/com/example/assign3/CustomerActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/src/com/example/assign3/CustomerListActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/src/com/example/assign3/DatabaseHelper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/src/com/example/assign3/FieldCheck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/src/com/example/assign3/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/src/com/example/assign3/MenuActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign3/src/com/example/assign3/TodayListActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,6 +27,11 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Christina Gordon &lt;crissyg@users.noreply.github.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
@@ -406,6 +331,14 @@
       <option name="presentableId" value="Default" />
       <updated>1487446068863</updated>
     </task>
+    <task id="LOCAL-00001" summary="Renamed project">
+      <created>1732587357354</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732587357354</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -441,6 +374,11 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Renamed project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Renamed project" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/gen/com/example/assign3/R.java">
